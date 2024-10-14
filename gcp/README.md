@@ -197,8 +197,23 @@
 | 1     | 195      | [Link](https://www.examtopics.com/discussions/google/view/121313-exam-professional-cloud-architect-topic-1-question-195/)|
 | 1     | 196      | [Link](https://www.examtopics.com/discussions/google/view/121324-exam-professional-cloud-architect-topic-1-question-196/)|
 | 1     | 197      | [Link](https://www.examtopics.com/discussions/google/view/138677-exam-professional-cloud-architect-topic-1-question-197/)|
+| 1     | 198      | [Link](https://www.examtopics.com/discussions/google/view/146571-exam-professional-cloud-architect-topic-1-question-198/)|
+| 1     | 199      | [Link](https://www.examtopics.com/discussions/google/view/146572-exam-professional-cloud-architect-topic-1-question-199/)|
 
-
+| Topic | Question | Link                                                                                                                  |
+|-------|----------|-----------------------------------------------------------------------------------------------------------------------|
+| 1     | 200      | [Link]()|
+| 1     | 201      | [Link]()|
+| 1     | 202      | [Link]()|
+| 1     | 203      | [Link]()|
+| 1     | 204      | [Link]()|
+| 1     | 205      | [Link]()|
+| 1     | 206      | [Link]()|
+| 1     | 207      | [Link]()|
+| 1     | 208      | [Link]()|
+| 1     | 209      | [Link]()|
+| 1     | 210      | [Link]()|
+| 1     | 211      | [Link]()|
 
 | Topic | Question | Link                                                                                                                  |
 |-------|----------|-----------------------------------------------------------------------------------------------------------------------|
